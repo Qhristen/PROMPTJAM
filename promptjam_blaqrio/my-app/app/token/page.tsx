@@ -1,7 +1,8 @@
+import SolanaWalletViewer from "@/components/toke_viewer";
 import TokenTransferUI from "@/components/token";
 
 const Page = () => {
-  return <TokenTransferUI />;
+  return <SolanaWalletViewer />;
 };
 
 export default Page;
