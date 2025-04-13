@@ -1,2 +1,1 @@
-Discord: blaqrio 
-state: Nasarawa state
+Discord: blaqrio state: Nasarawa state
